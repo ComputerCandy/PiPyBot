@@ -8,7 +8,8 @@ just dont clone my code.
 Is this code made for editing? Yes The server is but the client it not.
 
 #What is this?
-PiPyBot is a script written entirely by computercandy that uses a Computer to controll a Raspberry Pi
+PiPyBot is a script written MOSTLY by computercandy that uses a Computer to control a Raspberry Pi
+Credits to jereworboys for the forms.py : https://github.com/jeremyworboys/
 
 #This code dosen't run HELP!
 Do you have Python 2.7? This program was made in Python 2.7

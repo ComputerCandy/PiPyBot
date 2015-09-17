@@ -1,4 +1,7 @@
-
+#THIS IS NOT My CODE, THIS IS A FORM THING FOR PyGame
+#CREDITS TO jeremyworboys : https://github.com/jeremyworboys
+#https://github.com/jeremyworboys/pygame-forms
+#http://pygame.org/project-Pygame+Forms-1042-.html
 import pygame, time
 import pygame.locals as PL
 
